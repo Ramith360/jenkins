@@ -6,7 +6,7 @@ public class hi {
     public static void main(String args[]){
         int arr[] ={3,60,35,2,45,320,5};
 
-        hi hi = new hi();
+        hi hi = new hi()
 
 
         System.out.println("Array Before Bubble Sort");
